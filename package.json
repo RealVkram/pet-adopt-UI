@@ -1,0 +1,24 @@
+{
+  "name": "pet-adopt-UI",
+  "version": "1.0.0",
+  "description": "a UI for pet adoption built with React",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealVkram/pet-adopt-UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealVkram/pet-adopt-UI/issues"
+  },
+  "homepage": "https://github.com/RealVkram/pet-adopt-UI#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
